@@ -1,5 +1,6 @@
 # 代理补充列表
 DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,api.ipify.org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
