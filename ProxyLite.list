@@ -15,6 +15,7 @@ IP-CIDR,2a0a:f280::/32,📲 Telegram,no-resolve
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,raw.githubusercontent.com,👨🏿‍💻 GitHub
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
