@@ -27,3 +27,5 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,alphonso.tv,DIRECT
+IP-CIDR,67.231.244.222/32,DIRECT
