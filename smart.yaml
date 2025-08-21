@@ -14,7 +14,7 @@ proxy-providers:
     proxy: 直连
 
       Airport2:
-    url: "https://wwy.yyenh.cn/api/v1/client/subscribe?token=6d7cd406b631145d4959c91f031e3dfe"
+    url: "https://vyy.idsduf.com/s/6d7cd406b631145d4959c91f031e3dfe"
     type: http
     interval: 86400
     health-check:
